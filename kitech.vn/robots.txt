@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /search?q=*
+Crawl-delay: 10
+Allow: /
+Sitemap: http://kitech.vn/sitemap.xml

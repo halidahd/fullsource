@@ -1,0 +1,26 @@
+/* smushit */
+/*.psp-smushit-wrapper {
+	text-align: left;
+}
+.psp-smushit-wrapper .psp-smushit-loading {
+	background: url("assets/ajax-loader.gif") no-repeat;
+	width: 16px;
+	padding-right: 16px;
+	margin-right: 5px;
+	display: none;
+}
+
+.psp-smushit-wrapper span.error {
+	color: red;
+}
+.psp-smushit-wrapper span.success {
+	color: green;
+}
+.psp-smushit-wrapper span.info {
+	color: blue;
+}
+
+.psp-smushit-wrapper a.disabled {
+	color: grey;
+}*/
+

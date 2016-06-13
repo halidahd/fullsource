@@ -1,0 +1,1445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kitech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-06 23:05+0530\n"
+"PO-Revision-Date: 2015-11-18 14:33+0700\n"
+"Last-Translator: Magazine3 <magazine3.mail@gmail.com>\n"
+"Language-Team: Kitech Team <admin@kitech.vn>\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_s\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../index.php:36
+msgid "Rating Score"
+msgstr "Điểm đánh giá"
+
+#: ../404.php:9
+msgid "*404* - Not Found"
+msgstr "Không tìm thấy trang"
+
+#: ../404.php:10
+msgid "Sorry, we can't find the content you're looking for at this URL. Please navigate from the navigation menu on top or try searching below.."
+msgstr "Xin lỗi, chúng tôi không thể tìm thấy nội dung bạn đang tìm kiếm tại URL này. Vui lòng điều hướng từ menu điều hướng trên đầu trang hoặc thử tìm kiếm dưới đây .."
+
+#: ../normalposts-meta.php:6
+msgid "Posted on"
+msgstr "Đăng lúc"
+
+#: ../normalposts-meta.php:7
+msgid "by"
+msgstr "bởi"
+
+#: ../normalposts-meta.php:25
+msgid "#0"
+msgstr ""
+
+#: ../normalposts-meta.php:25
+msgid "#1"
+msgstr ""
+
+#: ../normalposts-meta.php:25
+msgid "#%"
+msgstr ""
+
+#: ../functions.php:321
+msgid "Footer Block 1"
+msgstr ""
+
+#: ../functions.php:329
+msgid "Footer Block 2"
+msgstr ""
+
+#: ../functions.php:337
+msgid "Footer Block 3"
+msgstr ""
+
+#: ../functions.php:345
+msgid "Footer Block 4"
+msgstr ""
+
+#: ../functions.php:387
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s ở %2$s"
+
+#: ../functions.php:387 ../content.php:53 ../attachment.php:43
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:391
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../content.php:27 ../content.php:38
+msgid ", "
+msgstr ""
+
+#: ../content.php:31
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Đã đăng trong %1$s"
+
+#: ../content.php:42
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../content.php:49
+msgid "Leave a comment"
+msgstr "Để lại một bình luận"
+
+#: ../content.php:49 ../comments.php:13
+msgid "1 Comment"
+msgstr "1 bình luận"
+
+#: ../content.php:49 ../comments.php:13
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: ../attachment.php:18
+msgid "Image navigation"
+msgstr ""
+
+#: ../attachment.php:20
+msgid "&larr; Previous"
+msgstr "&larr; Trước"
+
+#: ../attachment.php:21
+msgid "Next &rarr;"
+msgstr "Tiếp &rarr;"
+
+#: ../attachment.php:32
+#, php-format
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../attachment.php:92
+msgid "Pages:"
+msgstr "Các trang:"
+
+#: ../footer.php:53
+msgid "Back to top"
+msgstr ""
+
+#: ../content-single.php:7
+msgid "Categorized as"
+msgstr "Danh mục"
+
+#: ../content-single.php:20
+msgid "Tagged as"
+msgstr "Tags:"
+
+#: ../content-single.php:42
+msgid "Related"
+msgstr "Liên quan"
+
+#: ../content-single.php:95
+msgid "RATING"
+msgstr "Điểm đánh giá"
+
+#: ../content-single.php:132 ../content-single.php:144
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc tiếp <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:13
+msgid "No Comments"
+msgstr "Không có bình luận nào"
+
+#: ../comments.php:13
+msgid "so far. Feel free to join this conversation."
+msgstr ""
+
+#: ../comments.php:34
+msgid "Leave A Response"
+msgstr ""
+
+#: ../comments.php:38
+msgid "You must be"
+msgstr ""
+
+#: ../comments.php:38
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:38
+msgid "to post a comment."
+msgstr ""
+
+#: ../comments.php:42
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Log out &raquo;"
+msgstr ""
+
+#: ../comments.php:44 ../comments.php:62
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:48 ../comments.php:66
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:54 ../comments.php:56
+msgid "(required)"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Website"
+msgstr ""
+
+#: ../home-gallery.php:11
+msgid "View Gallery"
+msgstr ""
+
+#: ../featured.php:25
+msgid "Read more"
+msgstr "Xem nhiều hơn"
+
+#: ../archives.php:12
+msgid "Pages"
+msgstr "Các trang"
+
+#: ../archives.php:16
+msgid "By Month"
+msgstr "Bởi tháng"
+
+#: ../archives.php:20
+msgid "By Category"
+msgstr "Bởi dan h mục"
+
+#: ../archives.php:25
+msgid "Browse Last 45 Articles:"
+msgstr ""
+
+#: ../single.php:54
+msgid "About the Author"
+msgstr "Về tác giả"
+
+#: ../archive.php:18
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Danh mục lưu trữ: %s"
+
+#: ../archive.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Thẻ lưu trữ: %s"
+
+#: ../archive.php:28
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../archive.php:36
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:39
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:42
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:46
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:93
+msgid "This user hasn't shared any profile information"
+msgstr ""
+
+#: ../archive.php:96
+msgid "Home page:"
+msgstr ""
+
+#: ../archive.php:147
+msgid "Nothing Found"
+msgstr ""
+
+#: ../archive.php:151
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../search.php:8
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: ../normalposts.php:17 ../normalposts.php:47 ../normalposts.php:80
+#: ../normalposts.php:110 ../normalposts.php:140 ../normalposts.php:170
+#: ../normalposts.php:200 ../normalposts.php:229 ../normalposts.php:264
+msgid "Tags:"
+msgstr ""
+
+#: ../normalposts.php:25 ../normalposts.php:55 ../normalposts.php:88
+#: ../normalposts.php:118 ../normalposts.php:148 ../normalposts.php:178
+#: ../normalposts.php:208 ../normalposts.php:237 ../normalposts.php:271
+msgid "Continue Reading"
+msgstr "Đọc tiếp …"
+
+#: ../category.php:9
+msgid "You Are Browsing "
+msgstr "Bạn đang truy cập"
+
+#: ../category.php:9
+msgid "Category "
+msgstr "Danh mục"
+
+#: ../includes/w.php:3
+msgid "Displays list of category with numbers"
+msgstr ""
+
+#: ../includes/w.php:4
+msgid "M3: Category With Numbers"
+msgstr ""
+
+#: ../includes/w.php:10
+msgid "Browse By Categories"
+msgstr "Đang duyệt ở danh mục"
+
+#: ../includes/w.php:247
+msgid "Popular"
+msgstr "Được yêu thích"
+
+#: ../includes/w.php:248
+msgid "Comments"
+msgstr "Các bình luận"
+
+#: ../includes/w.php:249
+msgid "Tags"
+msgstr "Tags"
+
+#: ../includes/w.php:351
+msgid "M3: Advertisment Widget"
+msgstr ""
+
+#: ../includes/w.php:364
+msgid "Title: (optional)"
+msgstr ""
+
+#: ../includes/w.php:365
+msgid "Paste  Your Code Below:"
+msgstr ""
+
+#: ../includes/w.php:693
+msgid "Visit us on Google+"
+msgstr "Theo dõi chúng tôi trên Google+"
+
+#: ../includes/w.php:707 ../includes/w.php:1094
+msgid "Title:"
+msgstr ""
+
+#: ../includes/w.php:711
+msgid "Page ID:"
+msgstr ""
+
+#: ../includes/w.php:715
+msgid "Size:"
+msgstr ""
+
+#: ../includes/w.php:821
+msgid "views"
+msgstr ""
+
+#: ../includes/w.php:849
+msgid "Your social stats in sidebar."
+msgstr ""
+
+#: ../includes/w.php:851
+msgid "M3: Social Stats Widget"
+msgstr ""
+
+#: ../includes/w.php:948
+msgid "Enter your Feedburner ID:"
+msgstr ""
+
+#: ../includes/w.php:950
+msgid "Enter your Twitter ID:"
+msgstr ""
+
+#: ../includes/w.php:952
+msgid "Enter your Facebook URL:"
+msgstr ""
+
+#: ../includes/w.php:954
+msgid "Enter your Google+ ID:"
+msgstr ""
+
+#: ../includes/w.php:957
+msgid "Facebook height(px):"
+msgstr ""
+
+#: ../includes/w.php:959
+msgid "Google recommend text:"
+msgstr ""
+
+#: ../includes/w.php:962
+msgid "Subscription box text:"
+msgstr ""
+
+#: ../includes/w.php:965
+msgid "Facebook: Default: #ECEEF5"
+msgstr ""
+
+#: ../includes/w.php:967
+msgid "Google: Default: #fff"
+msgstr ""
+
+#: ../includes/w.php:969
+msgid "Twitter: Default: #DBECF4"
+msgstr ""
+
+#: ../includes/w.php:971
+msgid "Subscription: Default: #fdead2"
+msgstr ""
+
+#: ../includes/w.php:978
+msgid "A social networking icons widget."
+msgstr ""
+
+#: ../includes/w.php:979
+msgid "M3: Social Icon Widget"
+msgstr ""
+
+#: ../includes/w.php:1098
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/w.php:1102
+msgid "URL to Twitter profile"
+msgstr ""
+
+#: ../includes/w.php:1106
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/w.php:1110
+msgid "URL to Facebook profile"
+msgstr ""
+
+#: ../includes/w.php:1114
+msgid "LinkedIn"
+msgstr ""
+
+#: ../includes/w.php:1118
+msgid "URL to LinkedIn Profile"
+msgstr ""
+
+#: ../includes/w.php:1121
+msgid "Google+"
+msgstr ""
+
+#: ../includes/w.php:1125
+msgid "URL to Google+ Profile"
+msgstr ""
+
+#: ../includes/w.php:1128
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/w.php:1132
+msgid "URL to Pinterest"
+msgstr ""
+
+#: ../includes/w.php:1136
+msgid "Forrst"
+msgstr ""
+
+#: ../includes/w.php:1140
+msgid "URL to Forrst Profile"
+msgstr ""
+
+#: ../includes/w.php:1144
+msgid "Flickr"
+msgstr ""
+
+#: ../includes/w.php:1148
+msgid "URL to Flickr Photostream"
+msgstr ""
+
+#: ../includes/w.php:1152
+msgid "DeviantArt"
+msgstr ""
+
+#: ../includes/w.php:1156
+msgid "URL to DeviantArt Profile"
+msgstr ""
+
+#: ../includes/w.php:1160
+msgid "Behance"
+msgstr ""
+
+#: ../includes/w.php:1164
+msgid "URL to Behance"
+msgstr ""
+
+#: ../includes/w.php:1169
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/w.php:1173
+msgid "URL to Vimeo Profile"
+msgstr ""
+
+#: ../includes/w.php:1177
+msgid "YouTube"
+msgstr ""
+
+#: ../includes/w.php:1181
+msgid "URL to YouTube Profile"
+msgstr ""
+
+#: ../includes/w.php:1184
+msgid "RSS"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:114
+msgid "Loading Comments..."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:115
+msgid "View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">&times;</span>{1}</span>"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:116
+msgid "Please be sure to submit some text with your comment."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:117
+msgid "Please provide an email address to comment."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:118
+msgid "Please provide your name to comment."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:119
+msgid "Sorry, but there was an error posting your comment. Please try again later."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:120
+msgid "Your comment was approved."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:121
+msgid "Your comment is in moderation."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:122
+msgid "Camera"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:123
+msgid "Aperture"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:124
+msgid "Shutter Speed"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:125
+msgid "Focal Length"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:132
+#, php-format
+msgid "Commenting as %s"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:135
+msgid "Email (Required)"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:137
+msgid "Name (Required)"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:249
+msgid "Missing attachment ID."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:287
+msgid "Nonce verification failed."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:294
+msgid "Missing target blog ID."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:297
+msgid "Missing target post ID."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:300
+msgid "No comment text was submitted."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:312
+msgid "Comments on this post are closed."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:322
+msgid "Sorry, but we could not authenticate your request."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:330
+msgid "Please provide your name."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:333
+msgid "Please provide an email address."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:336
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:363
+msgid "Image Gallery Carousel"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:366
+msgid "Enable carousel"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:370
+msgid "Background color"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:373
+msgid "Metadata"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:430
+msgid "Show photo metadata (<a href=\"http://en.wikipedia.org/wiki/Exchangeable_image_file_format\" target=\"_blank\">Exif</a>) in carousel, when available."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:438
+msgid "Show map of photo location in carousel, when available."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:446
+msgid "Black"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:446
+msgid "White"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:454
+msgid "Display images in full-size carousel slideshow."
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:39
+msgid "Subject"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:41
+#: ../includes/grunion-contact-form/admin.php:87
+msgid "Message"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:96
+msgid "Yes"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:138
+#, php-format
+msgid "%s requires a valid email address"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:145
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:268
+#: ../includes/grunion-contact-form/grunion-contact-form.php:316
+msgid "Error!"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:277
+msgid "Submit &#187;"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:321
+msgid "Message Sent"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:427
+msgid "l F j, Y \\a\\t g:i a"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:442
+msgid "Time:"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:443
+msgid "IP Address:"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:444
+msgid "Contact Form URL:"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:464
+#, php-format
+msgid ""
+"\n"
+"Sent by a verified %s user."
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:468
+msgid "Sent by an unverified visitor to your site."
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:628
+msgid "Feedbacks"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:629
+msgid "Feedback"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:630
+msgid "Search Feedback"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:631
+#: ../includes/grunion-contact-form/grunion-contact-form.php:632
+msgid "No feedback found"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:671
+msgid "Add a custom form"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:86
+msgid "From"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:88
+msgid "Date"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:160
+msgid "Restore"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:163
+#: ../includes/grunion-contact-form/admin.php:262
+msgid "Delete this item permanently"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:165
+#: ../includes/grunion-contact-form/admin.php:264
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:196
+msgid "Mark this message as spam"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:205
+#: ../includes/grunion-contact-form/admin.php:492
+msgid "Trash"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:256
+msgid "Mark this message as NOT spam"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:295
+msgid "Y-m-d @ g:i:s A"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:414
+msgid "You are not allowed to manage this item."
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:448
+msgid "You are not allowed to move this item out of the Trash."
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:451
+msgid "Error in restoring from Trash."
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:455
+msgid "You are not allowed to move this item to the Trash."
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:458
+msgid "Error in moving to Trash."
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:482
+msgid "Messages"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:505
+msgid "Spam"
+msgstr ""
+
+#: ../includes/mm/mm.php:53
+msgid "Global"
+msgstr ""
+
+#: ../includes/mm/mm.php:58
+msgid "Global Options"
+msgstr ""
+
+#: ../includes/mm/mm.php:59
+msgid ""
+"<b>Upload Logo: </b> Upload your own Logo to use as Site Logo. (for bestfit: 297px x 131px)\n"
+"<br /><br />\n"
+"<b>Upload Favicon:</b> Upload a 16px x 16px Png/Gif image that will represent your website's favicon.\n"
+"<br /><br />\n"
+"<b>Analytics Tracking Code:</b> Insert Analytics Tracking Code\n"
+"<br /><br />\n"
+"<b>Copyright Text:</b> Insert Copyright Text\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:69
+msgid "Upload Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:73
+msgid "Upload Favicon"
+msgstr ""
+
+#: ../includes/mm/mm.php:78
+msgid "Analytics Tracking Code"
+msgstr ""
+
+#: ../includes/mm/mm.php:83
+msgid "Copyright Text"
+msgstr ""
+
+#: ../includes/mm/mm.php:89
+msgid "Top Slider Area"
+msgstr ""
+
+#: ../includes/mm/mm.php:90
+msgid ""
+"<b>Top Slider:</b> Turn ON or OFF Slider<br /><br />\n"
+" <b>Top Slider:</b> This slider show posts from selected category, So you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:96
+msgid "Top Slider"
+msgstr ""
+
+#: ../includes/mm/mm.php:102
+msgid "Top Slider Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:109
+msgid "Homepage"
+msgstr ""
+
+#: ../includes/mm/mm.php:114 ../includes/mm/mm.php:121
+msgid "Featured Slider"
+msgstr ""
+
+#: ../includes/mm/mm.php:115 ../includes/mm/mm.php:133
+msgid ""
+"<b>Featured Area:</b> Turn ON or OFF Slider<br /><br />\n"
+" <b>Featured Category:</b> This slider show posts from selected category, So you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:127
+msgid "Featured Slider Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:132
+msgid "Featured Area"
+msgstr ""
+
+#: ../includes/mm/mm.php:141
+msgid "Featured Area 1"
+msgstr ""
+
+#: ../includes/mm/mm.php:147
+msgid "Featured Area 2"
+msgstr ""
+
+#: ../includes/mm/mm.php:152
+msgid "Featured Area 2 Text"
+msgstr ""
+
+#: ../includes/mm/mm.php:158
+msgid "Featured Area 3"
+msgstr ""
+
+#: ../includes/mm/mm.php:163
+msgid "Featured Area 3 Text"
+msgstr ""
+
+#: ../includes/mm/mm.php:171
+msgid "Single"
+msgstr ""
+
+#: ../includes/mm/mm.php:178
+msgid "Single Post Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:180
+msgid ""
+"<b>AuthorBox:</b> Choosing \"ENABLE\" will display author info below each post. Choosing \"DISABLE\" will hide the author info.<br /><br />\n"
+"<b>Floating Social Section:</b> Choosing \"ENABLE\" will display show Floating Social Section on the left side of an article. Choosing \"DISABLE\" will hide it.<br /><br />\n"
+"<b>Metadata:</b> You can use this to turn of this part from the single post article. <div style=\"font-style: italic;\">\"by admin - on Dec 20th 2011 - No Comments   0 Views\"</div>\n"
+"  This option is just for Single article area. So disabling this will hide meta data from single article but not from homepage.<br /><br />\n"
+"  <b>Related Posts:</b> Turn ON or OFF Recent Post Below Post.<br /><br />\n"
+"  <b>How many Related Posts?:</b> Type the number of posts that you want in related post. - DEFAULT: 5<br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:189
+msgid "AuthorBox "
+msgstr ""
+
+#: ../includes/mm/mm.php:194
+msgid "Floating Social  Section"
+msgstr ""
+
+#: ../includes/mm/mm.php:204
+msgid "Related Posts"
+msgstr ""
+
+#: ../includes/mm/mm.php:209
+msgid "How many Related Posts?"
+msgstr ""
+
+#: ../includes/mm/mm.php:219
+msgid "Fonts"
+msgstr ""
+
+#: ../includes/mm/mm.php:226
+msgid "Font Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:227
+msgid ""
+"<b>Link Font Color: </b>Change Link Hover Font Color (Default Color is #236CBF)<br /><br />\n"
+"<b>Link Font Hover Color: </b>Change Link Font Color (Default Color is #236CBF)<br /><br />\n"
+"<b>Single PostTitle fonts: </b>Select your H1 font from Google Font API. <a href=\"http://www.google.com/webfonts\" target=\"_blank\">See all Google Fonts</a><br /><br />\n"
+"<b>Font size for Single post content: </b>Select the fontsize for article content in px - DEFAULT: 15px<br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:234
+msgid "Link Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:240
+msgid "Link Font Hover Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:246
+msgid "Single PostTitle fonts"
+msgstr ""
+
+#: ../includes/mm/mm.php:252
+msgid "Font size for Single post content"
+msgstr ""
+
+#: ../includes/mm/mm.php:263
+msgid "H1 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:264
+msgid ""
+"<b>H1 Font Family: </b>Select your H1 font from Google Font API. See all Google Fonts<br /><br />\n"
+"<b>H1 Font Size: </b>Select the fontsize for H1 in px (Default is 25)<br /><br />\n"
+"<b>H1 Font Font Color: </b>Change H1 Font Color (Default Color is #000000)</a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:270
+msgid "H1 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:275
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:283
+msgid "H1 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:288
+msgid "H2 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:289
+msgid ""
+"<b>H2 Font Family: </b>Select your H2 font from Google Font API. See all Google Fonts<br /><br />\n"
+"<b>H2 Font Size: </b>Select the fontsize for H2 in px (Default is 24)<br /><br />\n"
+"<b>H2 Font Font Color: </b>Change H2 Font Color (Default Color is #000000)</a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:296
+msgid "H2 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:301
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:309
+msgid "H2 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:314
+msgid "H3 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:316
+msgid ""
+"<b>H3 Font Family: </b>Select your H3 font from Google Font API. See all Google Fonts<br /><br />\n"
+"<b>H3 Font Size: </b>Select the fontsize for H3 in px (Default is 24)<br /><br />\n"
+"<b>H3 Font Font Color: </b>Change H3 Font Color (Default Color is #000000)</a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:321
+msgid "H3 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:326
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:334
+msgid "H3 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:339
+msgid "H4 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:340
+msgid ""
+"<b>H4 Font Family: </b>Select your H4 font from Google Font API. See all Google Fonts <br /><br />\n"
+"<b>H4 Font Size: </b>Select the fontsize for H4 in px (Default is 21)<br /><br />\n"
+"<b>H4 Font Font Color: </b>Change H4 Font Color (Default Color is #000000)</a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:346
+msgid "H4 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:350
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:358
+msgid "H4 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:363
+msgid "H5 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:364
+msgid ""
+"<b>H5 Font Family: </b>Select your H5 font from Google Font API. See all Google Fonts <br /><br />\n"
+"<b>H5 Font Size: </b>Select the fontsize for H5 in px (Default is 16)<br /><br />\n"
+"<b>H5 Font Font Color: </b>Change H5 Font Color (Default Color is #000000)</a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:370
+msgid "H5 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:375
+msgid "H5 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:383
+msgid "H5 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:388
+msgid "H6 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:389
+msgid ""
+"<b>H6 Font Family: </b>Select your H6 font from Google Font API. See all Google Fonts<br /><br />\n"
+"<b>H6 Font Size: </b>Select the fontsize for H6 in px  (Default is 14)<br /><br />\n"
+"<b>H6 Font Font Color: </b>Change H6 Font Color (Default Color is #000000)</a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:395
+msgid "H6 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:400
+msgid "H6 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:408
+msgid "H6 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:417
+msgid "Social"
+msgstr ""
+
+#: ../includes/mm/mm.php:423
+msgid "Social Profile Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:424
+msgid "Enable & Disable to show or hide the Specific button. Another input area is for adding your profile url. These are very easy options so i hope you will understand them."
+msgstr ""
+
+#: ../includes/mm/mm.php:432
+msgid "Turn ON or OFF Facebook Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:438
+msgid "Facebook Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:445
+msgid "Turn ON or OFF Flickr Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:451
+msgid "Flickr Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:459
+msgid "Turn ON or OFF Google+ Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:463
+msgid "Google+ Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:470
+msgid "Turn ON or OFF LinkedIn Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:474
+msgid "LinkedIn Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:480
+msgid "Pinterest "
+msgstr ""
+
+#: ../includes/mm/mm.php:481
+msgid "Turn ON or OFF Pinterest Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:485
+msgid "Pinterest Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:492
+msgid "Turn ON or OFF RSS Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:496
+msgid "RSS Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:505
+msgid "Turn ON or OFF Twitter Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:510
+msgid "Twitter Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:517
+msgid "Turn ON or OFF Vimeo Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:521
+msgid "Vimeo Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:527
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/mm/mm.php:528
+msgid "Turn ON or OFF Youtube Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:532
+msgid "Youtube Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:541
+msgid "Ads"
+msgstr ""
+
+#: ../includes/mm/mm.php:548
+msgid "Blocks info"
+msgstr ""
+
+#: ../includes/mm/mm.php:551
+msgid "Advertisement Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:552
+msgid ""
+"<b>Advertisement Slot:</b> Turn ON or OFF Advertisement Slot<br /><br />\n"
+"    \t\t<b>Text Area below it:</b> is where you paste the code.   \t\t"
+msgstr ""
+
+#: ../includes/mm/mm.php:556
+msgid "Advertisement Slot #1 "
+msgstr ""
+
+#: ../includes/mm/mm.php:562
+msgid "728x90 (On very top of the website)"
+msgstr ""
+
+#: ../includes/mm/mm.php:569
+msgid "Advertisement Slot #2 "
+msgstr ""
+
+#: ../includes/mm/mm.php:570
+msgid "Turn ON or OFF Advertisement Slot 2"
+msgstr ""
+
+#: ../includes/mm/mm.php:576
+msgid "728x90 (Below Navigation - Sitewide)"
+msgstr ""
+
+#: ../includes/mm/mm.php:583
+msgid "Advertisement Slot #3"
+msgstr ""
+
+#: ../includes/mm/mm.php:584
+msgid "Turn ON or OFF Advertisement Slot 3"
+msgstr ""
+
+#: ../includes/mm/mm.php:591
+msgid "728x90 (Below the Featured Section - Homepage)"
+msgstr ""
+
+#: ../includes/mm/mm.php:599
+msgid "Advertisement Slot #4 "
+msgstr ""
+
+#: ../includes/mm/mm.php:600
+msgid "Turn ON or OFF Advertisement Slot 4"
+msgstr ""
+
+#: ../includes/mm/mm.php:606
+msgid "Top of Single Posts"
+msgstr ""
+
+#: ../includes/mm/mm.php:613
+msgid "Advertisement Slot #5 "
+msgstr ""
+
+#: ../includes/mm/mm.php:614
+msgid "Turn ON or OFF Advertisement Slot 5"
+msgstr ""
+
+#: ../includes/mm/mm.php:620
+msgid "Bottom of Single Posts"
+msgstr ""
+
+#: ../includes/mm/mm.php:627
+msgid "Advertisement Slot #6 "
+msgstr ""
+
+#: ../includes/mm/mm.php:628
+msgid "Turn ON or OFF Advertisement Slot 6"
+msgstr ""
+
+#: ../includes/mm/mm.php:632
+msgid "Above the footer"
+msgstr ""
+
+#: ../includes/mm/mm.php:642
+msgid "SEO"
+msgstr ""
+
+#: ../includes/mm/mm.php:651 ../includes/mm/mm.php:655
+msgid "Global SEO Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:656
+msgid ""
+"\n"
+"\t\t      \t\t\t<b>Magazine3 SEO</b>: If you wish to use 3rd party SEO plugins, then Disable the \"Magazine3 SEO\". <br /><br />\n"
+"\t\t      \t\t\t<b>Title</b>: As the name implies, this will be the title of your homepage. This is independent of any other option. If not set, the default blog title will get used. <br /><br />\n"
+"\t\t      \t\t\t<b>Meta Description</b>: The META description for your homepage. Independent of any other options, the default is no META description at all if this is not set. <br /><br />\n"
+"\t\t      \t\t\t<b>Keywords</b>: A comma separated list of your most important keywords for your site that will be written as META keywords on your homepage. Dont stuff everything in here. <br /><br />\n"
+"\t\t      \t\t\t<b>Seperator</b>: This is the seprator between title & description.<br /><br />\n"
+"\t\t      \t\t\t<b>Canonical</b>: This option will automatically generate Canonical URLS for your entire WordPress installation. This will help to prevent duplicate content penalties by Google. <br />\n"
+"\t\t      \t\t\t"
+msgstr ""
+
+#: ../includes/mm/mm.php:670 ../includes/mm/mm.php:674
+msgid "Magazine3 SEO"
+msgstr ""
+
+#: ../includes/mm/mm.php:671 ../includes/mm/mm.php:675
+msgid "To use 3rd party seo plugins, Disable this option "
+msgstr ""
+
+#: ../includes/mm/mm.php:681
+msgid "Title"
+msgstr ""
+
+#: ../includes/mm/mm.php:687
+msgid "Meta Description"
+msgstr ""
+
+#: ../includes/mm/mm.php:688
+msgid "Description for SEO"
+msgstr ""
+
+#: ../includes/mm/mm.php:695
+msgid "Keywords"
+msgstr ""
+
+#: ../includes/mm/mm.php:701
+msgid "Seperator"
+msgstr ""
+
+#: ../includes/mm/mm.php:706
+msgid " Canonical"
+msgstr ""
+
+#: ../includes/mm/mm.php:707
+msgid "Turn ON or OFF Canonical Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:712
+msgid "Homepage Setttings"
+msgstr ""
+
+#: ../includes/mm/mm.php:714
+msgid ""
+"<b>Home Title Format</b>: Define the order the title, description and meta data appears in. \n"
+"\t\t      \t\t\t"
+msgstr ""
+
+#: ../includes/mm/mm.php:718
+msgid "Home Title Format"
+msgstr ""
+
+#: ../includes/mm/mm.php:726
+msgid "Single Setttings"
+msgstr ""
+
+#: ../includes/mm/mm.php:728
+msgid "<b>Single Title Format</b>: Define the order the title, description and meta data appears in. \t\t\t"
+msgstr ""
+
+#: ../includes/mm/mm.php:732
+msgid "Single Title Format"
+msgstr ""
+
+#: ../includes/mm/mm.php:738
+msgid "Index Setttings"
+msgstr ""
+
+#: ../includes/mm/mm.php:740
+msgid "Select which archives to index on your site. Aids in removing duplicate content from being indexed, preventing content dilution."
+msgstr ""
+
+#: ../includes/mm/mm.php:743
+msgid "Category Archives"
+msgstr ""
+
+#: ../includes/mm/mm.php:748
+msgid "Tag Archives"
+msgstr ""
+
+#: ../includes/mm/mm.php:753
+msgid "Author Archives"
+msgstr ""
+
+#: ../includes/mm/mm.php:758
+msgid "Date Archives"
+msgstr ""
+
+#: ../includes/mm/mm.php:763
+msgid "Search Results"
+msgstr "Kết quả tìm kiếm"
+
+#: ../includes/core/template-tags.php:8
+msgid "0 View"
+msgstr "0 lượt xem"
+
+#: ../includes/core/template-tags.php:10
+msgid " "
+msgstr ""
+
+#: ../includes/core/template-tags.php:58
+msgid "Trending Menu"
+msgstr ""
+
+#: ../includes/core/template-tags.php:61
+msgid "Navigate Menu"
+msgstr ""
+
+#: ../includes/core/template-tags.php:64
+msgid "Main Menu"
+msgstr ""
+
+#: ../includes/core/template-tags.php:67
+msgid "Footer Menu"
+msgstr ""
+
+#: ../includes/core/template-tags.php:71 ../includes/core/template-tags.php:76
+#: ../includes/core/template-tags.php:81 ../includes/core/template-tags.php:88
+msgid " Go to DASHBOARD > Appearance > Menus to set up the menu."
+msgstr ""
+
+#: ../includes/core/template-tags.php:199
+msgid "Pingback:"
+msgstr ""
+
+#: ../includes/core/template-tags.php:199
+#: ../includes/core/template-tags.php:222
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/core/template-tags.php:209
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../includes/core/template-tags.php:247
+#, php-format
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../includes/core/template-tags.php:253
+#, php-format
+msgid "View all posts by %s"
+msgstr "Xem tất cả các bài viết bởi %s"
