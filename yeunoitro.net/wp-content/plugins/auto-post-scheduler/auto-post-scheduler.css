@@ -1,0 +1,9 @@
+.aps h2 { display:inline; }
+
+.aps form { border: 3px solid #dddddd; padding: 0px 10px 0 10px; margin: 10px 0 0 0 ; }
+
+.aps-schedule { float:left;width:150px; }
+
+.aps-limitday { width: 100px;float:left; }
+
+.aps-center { text-align:center; }

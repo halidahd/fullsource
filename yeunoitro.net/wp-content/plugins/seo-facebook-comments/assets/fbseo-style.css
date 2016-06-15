@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+div#fbSEOComments{
+	margin:10px auto;
+    position:relative;
+}
+/*
+Not used anymore since Facebook Plugins Update in March/2014 now the fix for fluid layouts is through javascript
+#fbSEOComments,
+#fbSEOComments span,
+#fbSEOComments div,
+#fbSEOComments iframe,
+#fbSEOComments iframe[style],
+#fbSEOComments .fb_iframe_widget,
+#fbSEOComments .fb_iframe_widget span,
+#fbSEOComments .fb_iframe_widget iframe{
+    width: 100% !important;
+}
+
+div#fbSEOComments .fb-comments,
+div#fbSEOComments .fb-comments span,
+div#fbSEOComments .fb-comments iframe[style],
+div#fbSEOComments .fb-comments span[style],
+div#fbSEOComments .fb_iframe_widget,
+div#fbSEOComments .fb_iframe_widget span,
+div#fbSEOComments .fb_iframe_widget iframe {
+    width: 100% !important;
+}
+*/
+
+div#sharefbseo{
+	width:425px;
+	margin:0 auto;
+	font-size:11px
+}
+	div#sharefbseo a{
+		font-size:11px
+	}

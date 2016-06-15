@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-03-08 12:59-0300\n"
+"PO-Revision-Date: 2014-03-08 13:00-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Fabio\\Dropbox\\Plulz\\Wordpress\\seo-"
+"facebook-comments\\trunk\n"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:200
+msgid "SEO Facebook Comments is almost ready</b>, however you MUST insert the"
+msgstr ""
+"SEO Facebook Comments está quase pronto</b>, agora você precisa apenas "
+"inserir o"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:200
+msgid "and"
+msgstr "e"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:245
+msgid "Plugin from the creators of"
+msgstr "Plugin dos mesmos criadores de"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:245
+msgid "More at Plulz"
+msgstr "Mais em Plulz"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:263
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:282
+msgid "Click to Toggle"
+msgstr "Clique para expandir"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:264
+msgid "General Config"
+msgstr "Configurações Gerais"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:269
+msgid ""
+"If you need help you can find here on <a href=\"http://www.plulz.com/how-to-"
+"create-a-facebook-app\" target=\"_blank\">How to Create Your Facebook APP</"
+"a></p>"
+msgstr ""
+"Se necessário você pode encontrar ajuda em Como criar um Aplicativo para "
+"Facebook</a></p>"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:270
+msgid "App ID"
+msgstr "App ID"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:271
+msgid "App Secret"
+msgstr "App Secret"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:272
+msgid "Admin ID"
+msgstr "ID do Admin"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:272
+msgid ""
+"The ID is important for moderation. Know How to <a href=\"http://www.plulz."
+"com/how-to-get-my-facebook-user-id\" target=\"_blank\">get your Facebook "
+"User ID</a>"
+msgstr ""
+"O ID é importante para auxiliar na moderação dos comentários. Descubra como "
+"descobrir o ID de um Usuário do Facebook</a>"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:273
+msgid "Language"
+msgstr "Língua"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:273
+msgid "For brazilian portuguese the code above would be <strong>pt_BR</strong>"
+msgstr ""
+"No exemplo acima o código para língua Portuguesa do Brasil seria "
+"<strong>pt_BR</strong>"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:274
+msgid "Share"
+msgstr "Compartilhe"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:274
+msgid "Help us make more great plugins like this one by sharing our link."
+msgstr "Nos ajude a criar mais plugins como este compartilhando nosso link."
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:283
+msgid "Comments Config"
+msgstr "Configurações dos Comentários"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:288
+msgid "Add Open Graph Tags"
+msgstr "Adicionar Tags Open Graph (Facebook)"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:288
+msgid "Only check this if no other plugin is already creating Open Graph Tags"
+msgstr ""
+"Selecione apenas se não há outros plugins instalados que já adicionam as "
+"Tags Open Graph"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:289
+msgid "Post Number"
+msgstr "Número de Posts"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:289
+msgid "The default number of comments to show"
+msgstr "Número padrão de comentários a exibir"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:290
+msgid "Layout Type"
+msgstr "Tipo de Layout"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:290
+msgid ""
+"The Fluid option is the optimal layout for Fluid layouts on desktop, mobile, "
+"etc. The Mobile option should be used only in very specific layout types."
+msgstr ""
+"O layout líquido é o ideal para layouts adaptáveis em desktop, mobile, etc. "
+"A opção Mobile deve ser usada apenas em casos muito específicos."
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:291
+msgid "Comments Width"
+msgstr "Largura dos Comentários"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:291
+msgid ""
+"The width should be in \"px\" only. For fluid layouts change the selection "
+"above to \"Fluid\"."
+msgstr ""
+"A largura deve ser em \"px\" somente. Para layouts líquidos troque a opção "
+"acima para \"Fluid\"."
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:292
+msgid "Color Scheme"
+msgstr "Esquema de Cor"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:293
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:294
+msgid "Auto Approve"
+msgstr "Auto Aprovação"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:294
+msgid "Check this box if you want your Facebook Comments to be auto-approved."
+msgstr ""
+"Selecione esta caixa apenas se desejar que os comentários sejam aprovados "
+"automaticamente."
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:295
+msgid "Hide Default Comments"
+msgstr "Esconder Campo de Comentários Padrão."
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:295
+msgid ""
+"Check this to hide the default Wordpress Comments (only the Crawlers will "
+"see it)."
+msgstr ""
+"Selecione esta caixa apenas se desejar que o campo de comentários fiquem "
+"escondidos para os usuários e possam ser detectados apenas pelos sistemas de "
+"busca."
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:323
+msgid "Save Changes"
+msgstr "Salvar Mudanças"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:505
+msgid "You are not authorized to see this part"
+msgstr "Você não está autorizado a visualizar esta parte"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:509
+msgid "Please, insert a valid"
+msgstr "O campo "
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:509
+msgid "otherwise your plugin won't work"
+msgstr ""
+"precisa ser válido, caso contrário seu plugin não funcionará corretamente"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/seofacebook.php:533
+msgid "You must insert an valid Url and Post ID"
+msgstr "Você deve inserir uma Url e Post ID válidos"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:271
+msgid "Need Assistance?"
+msgstr "Precisa de Ajuda?"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:273
+msgid "Problems? The links bellow can be very helpful to you"
+msgstr "Problemas? Os links abaixo podem ser de grande ajuda"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:310
+msgid "Loved this Plugin?"
+msgstr "Gostou deste Plugin?"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:312
+msgid "Below are some links to help spread this plugin to other users"
+msgstr ""
+"Abaixo estão alguns links para ajudar a divulgar este Plugin para outros "
+"usuários"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:314
+msgid "Give it a 5 star on Wordpress.org"
+msgstr "Dê 5 estrelas para ele em Wordpress.org"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:315
+msgid "Link to it so others can easily find it"
+msgstr "Link para que outros usuários o encontrem facilmente"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:316
+msgid "Find us on Facebook"
+msgstr "Siga-nos no Facebook"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:351
+msgid "About us"
+msgstr "Sobre nós"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:353
+msgid ""
+"We are a Web 2.0 enterpreneurship in Brazil. We provide solutions on "
+"Wordpress and other systems, creating Themes, Plugins and many more exciting "
+"apps. Known more at"
+msgstr ""
+"Nós somos uma empresa de Web 2.0 criada no Brasil. Criamos soluções para "
+"sistemas em Wordpress através de criação de Temas, Plugins e Aplicativos de "
+"Facebook. Saiba mais em"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:542
+msgid "Plulz Latest News"
+msgstr "Últimas Notícias do Plulz"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:610
+msgid "Wordpress Plugins at Plulz"
+msgstr "Plugins de Wordpress em Plulz"
+
+#: C:\Users\Fabio\Dropbox\Plulz\Wordpress\seo-facebook-comments\trunk/classes/PlulzAdminClass.php:611
+msgid "Follow Plulz on Facebook"
+msgstr "Siga-nos no Facebook"
+
+#~ msgid ""
+#~ "The width can be in px (fixed layouts) or % (fluid layouts). Ex.: 500px "
+#~ "or 100%"
+#~ msgstr ""
+#~ "A largura pode ser tanto em px (layouts fixos) quanto em % (layouts "
+#~ "fluidos). Ex.: 500px ou 100%"
+
+#~ msgid "Mobile Version"
+#~ msgstr "Versão Mobile"
+
+#~ msgid ""
+#~ "Check this box if you want to show a different layout of Facebook "
+#~ "Comments in mobile devices."
+#~ msgstr ""
+#~ "Selecione esta caixa se deseja exibir o aplicativo Facebook Comments "
+#~ "adaptado também para tablets e celulares."
+
+#~ msgid "The width must be in px. Ex.: 500px"
+#~ msgstr "A largura deve estar em pixels. Ex.: 500px"

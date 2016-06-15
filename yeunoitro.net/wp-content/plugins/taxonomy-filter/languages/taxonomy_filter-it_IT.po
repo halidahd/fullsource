@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taxonomy filter\n"
+"POT-Creation-Date: 2015-10-24 17:17+0100\n"
+"PO-Revision-Date: 2015-10-24 17:17+0100\n"
+"Last-Translator: Andrea Landonio <landonio.andrea@gmail.com>\n"
+"Language-Team: Andrea Landonio <landonio.andrea@gmail.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /home/lando/Progetti/Wordpress/Plugins/taxonomy-"
+"filter/trunk\n"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-bulks.php:64
+msgid "Filter by"
+msgstr "Filtra per"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:41
+msgid "Taxonomy filter settings"
+msgstr "Impostazioni taxonomy filter"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:50
+msgid "Confirm reset"
+msgstr "Conferma reset"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:68
+msgid "Resetting.."
+msgstr "Resetting.."
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:81
+msgid ""
+"Choose in which taxonomy admin page box show filter field. Change \"hide "
+"filter\" checkbox if you want to hide filter field if taxonomy has no "
+"values. You can enable a taxonomy filter by checking his checkbox input "
+"beside taxonomy names.<br /><span class=\"description\">Note: The plugin "
+"does not support non-hierarchical tags.</span>"
+msgstr ""
+"Scegli in quale tassonomia vuoi mostrare il filtro. Abilita l'opzione "
+"\"Nascondi filtro\" se non vuoi mostrare il campo nel caso in cui la "
+"tassonomia fosse vuota. Puoi abilitare il filtro sulla tassonomia attivando "
+"la checkbox accanto ad nome della tassonomia.<br /><span class=\"description"
+"\">Nota: Il plugin non supporta i tags non gerarchici.</span>"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:90
+msgid "Save"
+msgstr "Salva"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:91
+msgid "Reset"
+msgstr "Reset"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:110
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:119
+msgid "Name"
+msgstr "Nome"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:111
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:120
+msgid "Slug"
+msgstr "Slug"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:112
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:121
+msgid "Rewrite slug"
+msgstr "Rewrite slug"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:113
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:122
+msgid "Options"
+msgstr "Opzioni"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter-settings.php:161
+msgid "Hide filter if taxonomy is blank"
+msgstr "Nascondi il filtro se la tassonomia è vuota"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter.php:139
+msgid "Filter"
+msgstr "Filtra"
+
+#: /home/lando/Progetti/Wordpress/Plugins/taxonomy-filter/trunk/taxonomy-filter.php:142
+msgid "Use the above field to apply filter"
+msgstr "Usa il campo qui sopra per filtrare"
+
+#~ msgid "taxonomy"
+#~ msgstr "tassonomia"

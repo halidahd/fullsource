@@ -1,0 +1,34 @@
+.dgd_stb_box, .dgd_stb_tab {
+    z-index:100000; /* wpadminbar is 99999, needs to appear on top of this */
+    display: none;
+    position:fixed;
+    top: none;
+    left: none;
+    right: none;
+    bottom: none;
+}
+
+.dgd_stb_box_close {
+    display: inline-block; 
+    position: absolute; 
+    cursor: pointer;
+    top: 15px; right: 15px; 
+}
+
+.dgd_stb_box_close_button {
+    cursor: pointer;
+}
+
+.dgd_stb_box_x { font-weight: 900; font-size: 2em }
+.dgd_stb_box_x::before { content: "\00D7" }
+
+.dgd_stb_box #scrolltriggered1 { 
+    display: block !important; 
+    bottom: none !important; 
+    z-index: auto !important; 
+    position: static !important;
+}
+
+.dgd_stb_tab {
+    cursor: pointer;
+}

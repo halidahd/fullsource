@@ -1,0 +1,51 @@
+.egs-stuff {
+	margin-top: 10px;
+}
+
+.egs-body {
+	margin-right: 460px;
+}
+
+.egs-series-container {
+    float: right;
+    margin-right: -460px;
+    width: 440px;
+}
+
+.egs-posts-container {
+	float: left;
+	width: 100%;
+}
+
+@media only screen and (max-width: 799px) {
+	.egs-body {
+		margin-right: 0;
+	}
+
+	.egs-series-container {
+		float: right;
+		margin-right: 0;
+		width: 100%;
+	}
+}
+
+ul.egs-sortable li {
+	border:           1px solid #CCC;
+	background-color: white /* #F9F9F9 */;
+	padding:          0 1em;
+	margin-bottom:   0.5em;
+	line-height:	2.5em;
+}
+
+div#ajax-wait,
+div#ajax-response {
+	display: none;	
+}
+
+.placeholder {
+	border:           1px dashed black;
+	padding:          0 1em;
+	margin-bottom:   0.5em;
+	height:	2.5em;
+	background-color: white;
+}

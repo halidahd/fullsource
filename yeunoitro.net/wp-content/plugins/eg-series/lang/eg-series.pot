@@ -1,0 +1,686 @@
+# Copyright (C) 2013 EG-Series
+# This file is distributed under the same license as the EG-Series package.
+msgid ""
+msgstr ""
+"Project-Id-Version: EG-Series 2.1.0-beta1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/eg-series\n"
+"POT-Creation-Date: 2013-10-19 21:22:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Emmanuel GEORJON <blog@emmanuelgeorjon.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/eg-series-admin.inc.php:214
+msgid "Serie successfully updated"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:217
+msgid "Error, security check failed"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:222
+msgid "Error, access denied"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:311
+msgid "View all categories"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:346
+msgid "Show all types"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:386
+msgid "Filters"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:397
+msgid "Filter"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:403
+msgid "Posts"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:405
+msgid "No post found with the current filters"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:437
+msgid "Show all dates"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:492
+msgid "Available posts"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:502
+msgid "EG-Series Bulk Edit"
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:504
+msgid "Processing, please wait ..."
+msgstr ""
+
+#: inc/eg-series-admin.inc.php:
+msgid "EG-Series Settings"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (EG-Series 2.1.0-beta1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: inc/eg-series-common.inc.php:138
+msgid "EG-Series"
+msgstr ""
+
+#: inc/eg-series-common.inc.php:139
+msgid "Search series"
+msgstr ""
+
+#: inc/eg-series-common.inc.php:141
+msgid "All series"
+msgstr ""
+
+#: inc/eg-series-common.inc.php:142
+msgid "Edit a serie"
+msgstr ""
+
+#: inc/eg-series-common.inc.php:143
+msgid "Update a serie"
+msgstr ""
+
+#: inc/eg-series-common.inc.php:144
+msgid "Add a new serie"
+msgstr ""
+
+#: inc/eg-series-common.inc.php:145
+msgid "New serie Name"
+msgstr ""
+
+#: inc/eg-series-common.inc.php:148
+msgid "Choose from most used"
+msgstr ""
+
+#: inc/eg-series-common.inc.php:366
+msgid "%s on %s series displayed "
+msgstr ""
+
+#: inc/eg-series-common.inc.php:393
+msgid "Display all series"
+msgstr ""
+
+#: inc/eg-series-common.inc.php:470
+msgid "Select a serie ..."
+msgstr ""
+
+#: inc/eg-series-common.inc.php:473
+msgid "The serie"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:12
+msgid "You are not allowed to access this file."
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:52
+msgid "Select"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:53
+msgid "Simple list"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:54
+msgid "Ordered list"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:57
+#: inc/tinymce/eg_series_popup.php:66
+msgid "Date"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:58
+#: inc/tinymce/eg_series_popup.php:67
+msgid "Title"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:59
+#: inc/tinymce/eg_series_popup.php:68
+msgid "User order"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:62
+#: inc/tinymce/eg_series_popup.php:71
+msgid "Ascending"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:63
+#: inc/tinymce/eg_series_popup.php:72
+msgid "Descending"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:272
+msgid "Posts shortcode"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:275
+msgid "Series shortcode"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:284
+msgid "Serie: "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:288
+#: inc/tinymce/eg_series_popup.php:340
+msgid "Title: "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:293
+#: inc/tinymce/eg_series_popup.php:345
+msgid "HTML Tag for title: "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:298
+#: inc/tinymce/eg_series_popup.php:350
+msgid "Format: "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:302
+#: inc/tinymce/eg_series_popup.php:394
+msgid "Sort key: "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:306
+#: inc/tinymce/eg_series_popup.php:398
+msgid "Sort order: "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:312
+msgid "Lines length (shortcode width): "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:314
+#: inc/tinymce/eg_series_popup.php:379
+msgid "Enter a number of characters, or 0 to keep posts or series title unchanged"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:318
+#: inc/tinymce/eg_series_popup.php:402
+msgid "Maximum number of posts to display: "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:320
+msgid "Enter a number, or 0 to diplay all posts"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:326
+#: inc/tinymce/eg_series_popup.php:409
+msgid "Show post date"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:331
+#: inc/tinymce/eg_series_popup.php:414
+msgid "Show post exceprt"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:354
+msgid "Maximum number of series to display:  "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:356
+msgid "Enter a number, or 0 to diplay all series"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:360
+msgid "id of post/page to see the whole list of the series: "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:367
+msgid "Hide empty series"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:372
+msgid "Show the number of posts for each serie"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:377
+msgid "Lines length: "
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:385
+msgid "Show description text of series"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:390
+msgid "Show posts"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:425
+msgid "Insert"
+msgstr ""
+
+#: inc/tinymce/eg_series_popup.php:428
+msgid "Cancel"
+msgstr ""
+
+#: lib/eg-plugin.inc.php:317
+msgid "EG-Plugins"
+msgstr ""
+
+#: lib/eg-plugin.inc.php:554
+msgid "Plugin's homepage"
+msgstr ""
+
+#: lib/eg-plugin.inc.php:559
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: lib/eg-plugin.inc.php:564
+msgid "Support forum"
+msgstr ""
+
+#: lib/eg-plugin.inc.php:569
+msgid "Last changes"
+msgstr ""
+
+#: lib/eg-plugin.inc.php:583
+msgid "This plugin required and requires many hours of work. If you use the plugin, and like it, feel free to show your appreciation to the author."
+msgstr ""
+
+#: lib/eg-plugin.inc.php:586
+#: lib/eg-plugin.inc.php:593
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr ""
+
+#: lib/eg-plugin.inc.php:602
+msgid "Links"
+msgstr ""
+
+#: lib/eg-plugin.inc.php:608
+msgid "Donate"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Better organize and highlight your posts by grouping them into series."
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:12
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:13
+msgid "Auto shortcode"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:14
+msgid "Admin interface"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Link"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Activation"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Format"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Administration bar"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Security"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Styles"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Uninstallation"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Link for series"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "In versions 1.x of this plugin, url of series was the permalink of the first post of these series.<br />To stay compatible, versions 2.x, keep this behavior by default. You can choose to switch to the new mode: in this case, the url will lead to the page of the serie"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Mode 1.x: url is the permalink of the first post of the serie"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Mode 2.x: url is the link of the page of the serie"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "EG-Series permalink slug"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "List of series"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Shortcode to display list of series"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Use to display list of series"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "List of posts"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Shortcode to display posts of a serie"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Use to list all posts of the same serie than the current post"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Custom post types"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "You can use EG-Series with the following custom post types"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Automatically add the list of posts that are in the same serie than the current displayed post: "
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "The option \"Between excerpt and content\" doesn't work if you use automatic excerpts. It works on with manual excerpt or with &lt!--more--&gt; tag. See the <a href=\"http://codex.wordpress.org/Excerpt\" title=\"Excerpt in WordPress Codex\">WordPress documentation</a> to get more details on excerpt."
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Not activated"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "At the end"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Before the excerpt"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Between excerpt and content"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Auto / Manual"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "If this option is activated, the auto shortcode won't be generated if a manual shortcode is detected in the post being displayed"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Disable auto-shortcode when a manual shortcode is detected"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Where"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Activate automatic shortcode only on the following cases"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Only post types selected in the previous options page are listed here. If a post type is missing, please go to &laquo; shortcode behavior &raquo; and select it. It will then, appear here."
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Homepage,"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "post"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Lists of posts (archives, categories, ...)."
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Title of the list"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "HTML Tag for title"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "(tag like h2, or h3, ...)"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "List type"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Order by"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "User Order"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Sort Order"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Display dates"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Display dates?"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Display posts"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Display excerpt of posts?"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Display a <strong>EG-Series</strong> menu in the administration bar"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "EG-Series button"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Show EG-Series button in post text editor ?"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Popup Window options"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Use options of auto shortcode, as default values for the TinyMCE popup window?"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Dashboard"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Display number of series in the dashboard?"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Edit series"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Give the required access level to users for editing series, and posts in series"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Administrator"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Editor"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Author"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Contributor"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Stylesheet"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Check if you want to use the plugin stylesheet file, uncheck if you want to use your own styles, or include styles on the theme stylesheet."
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Automatically load plugins' stylesheet"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Options"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Delete options during uninstallation."
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Delete series"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Check if you want to delete all series and taxonomy"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Be careful: these actions cannot be cancelled. All plugin's options and or series will be deleted while plugin uninstallation."
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Other posts of the serie"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Display series or groups of posts"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Display posts of the same serie than the current post"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Number of series to display"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Number of posts"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Display number of posts?"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Empty series"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Hide empty series (series with no posts)?"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Width"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Page or Post id where all series are displayed"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "or "
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "use serie name as title"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Show date"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Details"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "List format"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Show posts excerpt"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Posts of the same serie"
+msgstr ""
+
+#: inc/eg-series-widgets.inc.php:
+msgid "Series"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Cache"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Clear plugin cache"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "The plugin is using cache to store the list of series, and the list of posts for each series. If the changes you make in the administration interface, are not seen in the front-end, you can use this option to clear the cache"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Clear cache entries"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Check the option, if you want to delete the following cache entries"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "List of series"
+msgstr ""
+
+#: inc/eg-series-settings.inc.php:
+msgid "Posts list for the serie "
+msgstr ""

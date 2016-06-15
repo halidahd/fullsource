@@ -1,0 +1,589 @@
+# Copyright (C) 2014 Awesome Surveys
+# This file is distributed under the same license as the Awesome Surveys package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Awesome Surveys 2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/awesome-surveys\n"
+"POT-Creation-Date: 2015-12-05 13:58:46+00:00\n"
+"PO-Revision-Date: 2015-03-25 07:31-0500\n"
+"Last-Translator: Naïm Khalifa <n.khalifa@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: includes/class-awesome-surveys-admin.php:9
+#: includes/class-awesome-surveys-admin.php:195
+msgid "Awesome Surveys Options"
+msgstr "Option d'Awesome Surveys"
+
+#: includes/class-awesome-surveys-admin.php:10
+msgid "Survey Options"
+msgstr "Option du sondage"
+
+#. #-#-#-#-#  awesome-surveys.pot (Awesome Surveys 2.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-awesome-surveys-admin.php:12
+#: includes/class-awesome-surveys.php:68
+msgid "Awesome Surveys"
+msgstr "Awesome Surveys"
+
+#: includes/class-awesome-surveys-admin.php:78
+#: includes/class-awesome-surveys-ajax-actions.php:144
+msgid "Clear Default"
+msgstr ""
+
+#: includes/class-awesome-surveys-admin.php:105
+msgid ""
+"Do you really want to delete these results? This action can not be undone."
+msgstr ""
+
+#: includes/class-awesome-surveys-admin.php:105
+msgid "Error: Operation Failed"
+msgstr ""
+
+#: includes/class-awesome-surveys-admin.php:137
+#: includes/class-awesome-surveys.php:72
+msgid "My Surveys"
+msgstr "Mes sondages"
+
+#: includes/class-awesome-surveys-admin.php:138
+#: includes/class-awesome-surveys.php:74 includes/class-awesome-surveys.php:75
+msgid "New Survey"
+msgstr "Nouveau sondage"
+
+#: includes/class-awesome-surveys-admin.php:196
+msgid "Email Options"
+msgstr "Options d'email"
+
+#: includes/class-awesome-surveys-admin.php:233
+msgid "View Survey Results"
+msgstr "Voir les résultats du sondage"
+
+#: includes/class-awesome-surveys-admin.php:233
+msgid "Results"
+msgstr "Résultats"
+
+#: includes/class-awesome-surveys-admin.php:234
+#, fuzzy
+msgid "Delete Survey Results"
+msgstr "Voir les résultats du sondage"
+
+#: includes/class-awesome-surveys-admin.php:234
+#, fuzzy
+msgid "Delete Results"
+msgstr "Supprimer la question"
+
+#: includes/class-awesome-surveys-admin.php:236
+msgid "Create a copy of this survey"
+msgstr "Créer un copie de ce sondage"
+
+#: includes/class-awesome-surveys-admin.php:236
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: includes/class-awesome-surveys-admin.php:249
+msgid "Surveys updated"
+msgstr "Sondages mis à jour"
+
+#: includes/class-awesome-surveys-admin.php:311
+msgid "Copy"
+msgstr "Copier"
+
+#: includes/class-awesome-surveys-admin.php:384
+msgid "Survey Results For:"
+msgstr "Résultats du sondage pour:"
+
+#: includes/class-awesome-surveys-admin.php:397
+msgid "Results for "
+msgstr "Résultats pour"
+
+#: includes/class-awesome-surveys-admin.php:399
+msgid "Results for respondent "
+msgstr "Résultats pour le sondé"
+
+#: includes/class-awesome-surveys-admin.php:406
+msgid "Create Survey"
+msgstr "Créer un sondage"
+
+#: includes/class-awesome-surveys-admin.php:407
+msgid "General Survey Options"
+msgstr "Options générales du sondage"
+
+#: includes/class-awesome-surveys-admin.php:444
+msgid "Answers"
+msgstr "Réponses"
+
+#: includes/class-awesome-surveys-admin.php:450
+#: includes/class-awesome-surveys-admin.php:453
+#: includes/class-awesome-surveys-ajax-actions.php:169
+msgid "Answer"
+msgstr "Réponse"
+
+#: includes/class-awesome-surveys-admin.php:455
+msgid "No response given"
+msgstr "Pas de réponse donnée"
+
+#: includes/class-awesome-surveys-admin.php:456
+msgid "Question"
+msgstr "Question"
+
+#: includes/class-awesome-surveys-admin.php:503
+#: includes/views/html-surveys-options-emails.php:5
+msgid "Thank you for your response"
+msgstr "Merci pour votre réponse"
+
+#: includes/class-awesome-surveys-admin.php:505
+#: includes/views/html-surveys-options-emails.php:7
+msgid "Thank you for your response to a survey"
+msgstr "Merci pour votre réponse à un sondage"
+
+#: includes/class-awesome-surveys-ajax-actions.php:86
+msgid "The question you are asking:"
+msgstr "La question que vous posez:"
+
+#: includes/class-awesome-surveys-ajax-actions.php:88
+msgid "Field Validation Options"
+msgstr "Option de validation du champ"
+
+#: includes/class-awesome-surveys-ajax-actions.php:106
+msgid "Advanced Validation Rules:"
+msgstr "Règles de validation avancée:"
+
+#: includes/class-awesome-surveys-ajax-actions.php:134
+msgid "Display number of characters remaining?"
+msgstr ""
+
+#: includes/class-awesome-surveys-ajax-actions.php:141
+msgid "Number of answers required?"
+msgstr "Nombre de réponses requises"
+
+#: includes/class-awesome-surveys-ajax-actions.php:147
+#: includes/class-awesome-surveys-ajax-actions.php:494
+msgid "Add Question"
+msgstr "Ajouter une question"
+
+#: includes/class-awesome-surveys-ajax-actions.php:169
+msgid "default?"
+msgstr "par défaut?"
+
+#: includes/class-awesome-surveys-ajax-actions.php:196
+msgid "required?"
+msgstr "requis?"
+
+#: includes/class-awesome-surveys-ajax-actions.php:221
+msgid "Min number allowed"
+msgstr "Nombre min autorisé"
+
+#: includes/class-awesome-surveys-ajax-actions.php:227
+msgid "Max number allowed"
+msgstr "Nombre max autorisé"
+
+#: includes/class-awesome-surveys-ajax-actions.php:248
+msgid "Maximum Length (in number of characters)"
+msgstr "Longueur maximale (en caractères)"
+
+#: includes/class-awesome-surveys-ajax-actions.php:308
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: includes/class-awesome-surveys-ajax-actions.php:354
+msgid "There was an error on line "
+msgstr ""
+
+#: includes/class-awesome-surveys-ajax-actions.php:384
+msgid "Answers not saved. Survey in draft status."
+msgstr ""
+
+#: includes/class-awesome-surveys-ajax-actions.php:403
+#: includes/class-awesome-surveys.php:244
+msgid "Your response to this survey has already been recorded. Thank you!"
+msgstr "Votre réponse à ce sondage a déjà été enregistrée. Merci!"
+
+#. translators: the placeholders %s and %d represent the redirect url and the
+#. number of seconds before a redirect respectively
+#: includes/class-awesome-surveys-ajax-actions.php:461
+msgid "You will be redirected to %s in %d seconds"
+msgstr ""
+
+#: includes/class-awesome-surveys-ajax-actions.php:493
+msgid "Enter your custom HTML"
+msgstr ""
+
+#: includes/class-awesome-surveys-frontend.php:105
+msgid "Characters remaining"
+msgstr ""
+
+#: includes/class-awesome-surveys-frontend.php:133
+#: includes/class-awesome-surveys.php:395
+msgid "You must be logged in to participate in this survey"
+msgstr "Vous devez être connecté pour participer à ce sondage"
+
+#: includes/class-awesome-surveys.php:29
+msgid "Text Input"
+msgstr "Input texte"
+
+#: includes/class-awesome-surveys.php:33
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-awesome-surveys.php:37
+msgid "Number"
+msgstr "Nombre"
+
+#: includes/class-awesome-surveys.php:41
+msgid "Dropdown Selector"
+msgstr "Sélecteur déroulant"
+
+#: includes/class-awesome-surveys.php:45
+msgid "Radio Buttons"
+msgstr "Boutons radio"
+
+#: includes/class-awesome-surveys.php:49
+msgid "Checkboxes"
+msgstr "Cases à cocher"
+
+#: includes/class-awesome-surveys.php:53
+msgid "Textarea"
+msgstr "Textarea"
+
+#: includes/class-awesome-surveys.php:57
+msgid "Custom HTML"
+msgstr ""
+
+#: includes/class-awesome-surveys.php:70
+msgid "Surveys"
+msgstr "Sondages"
+
+#: includes/class-awesome-surveys.php:71 includes/class-awesome-surveys.php:73
+msgid "Survey"
+msgstr "Sondage"
+
+#: includes/class-awesome-surveys.php:76
+msgid "Add New Survey"
+msgstr "Ajouter un nouveau sondage"
+
+#: includes/class-awesome-surveys.php:77
+msgid "Edit Survey"
+msgstr "Editer le sondage"
+
+#: includes/class-awesome-surveys.php:79
+msgid "Surveys for your site"
+msgstr "Les sondages pour votre site"
+
+#: includes/class-awesome-surveys.php:128
+#: includes/wwmas-database-upgrade-functions.php:118
+msgid "make a selection..."
+msgstr "Faire un choix"
+
+#: includes/class-awesome-surveys.php:170
+#: includes/wwmas-database-upgrade-functions.php:157
+msgid "Submit Response"
+msgstr "Envoyer"
+
+#: includes/class-awesome-surveys.php:250
+msgid "Captcha Required"
+msgstr ""
+
+#: includes/class-awesome-surveys.php:270
+msgid "None"
+msgstr "Aucune"
+
+#: includes/class-awesome-surveys.php:274
+msgid "User must be logged in"
+msgstr "L'utilisateur doit être authentifié"
+
+#: includes/class-awesome-surveys.php:278
+msgid "Cookie based"
+msgstr "Cookie"
+
+#: includes/class-awesome-surveys.php:411
+msgid "Survey Completed"
+msgstr "Sondage terminé"
+
+#: includes/class-awesome-surveys.php:413
+msgid "A survey on your site named %s has been completed"
+msgstr "Un sondage sur votre site %s a été complété"
+
+#: includes/class-awesome-surveys.php:429
+msgid "No Answer Given"
+msgstr "Pas de réponse donnée"
+
+#: includes/class-awesome-surveys.php:519
+#, fuzzy
+msgid "question"
+msgstr "Question"
+
+#: includes/class-awesome-surveys.php:520
+msgid "Edit question"
+msgstr "Editer la question"
+
+#: includes/class-awesome-surveys.php:522 strings.php:13
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/views/html-database-upgrade.php:2
+msgid "Press the button below to migrate your surveys to the newest version"
+msgstr ""
+"Pressez le bouton ci-dessous pour migrer vos sondages vers la nouvelle "
+"version"
+
+#: includes/views/html-database-upgrade.php:5
+msgid "upgrade database"
+msgstr "Mettre à niveau la base de données"
+
+#: includes/views/html-survey-builder.php:9
+msgid "JavaScript Loading..."
+msgstr ""
+
+#: includes/views/html-survey-builder.php:19
+msgid "Add a form element to your survey by clicking a button"
+msgstr ""
+"Ajouter un élément de formulaire à votre sondage en cliquant sur un bouton"
+
+#: includes/views/html-survey-builder.php:55
+msgid "Configure a survey question"
+msgstr "Configurer une question de sondage"
+
+#: includes/views/html-survey-builder.php:59
+msgid "This survey has responses. Questions can not be edited"
+msgstr "Ce sondage a des réponses. Les questions ne peuvent être éditées"
+
+#: includes/views/html-survey-builder.php:63
+msgid "Survey Preview"
+msgstr "Prévisualisation du sondage"
+
+#: includes/views/html-survey-builder.php:66
+msgid "You can insert this survey with shortcode: "
+msgstr "Vous pouvez insérer ce sondage avec ce shortcode:"
+
+#: includes/views/html-survey-options-general.php:17
+msgid "Thank you for completing this survey"
+msgstr "Merci d'avoir complété ce sondage/"
+
+#: includes/views/html-survey-options-general.php:23
+msgid "Thank You message"
+msgstr "Message de remerciement"
+
+#: includes/views/html-survey-options-general.php:29
+msgid ""
+"How many seconds to show the Thank You message before browser redirection:"
+msgstr ""
+
+#: includes/views/html-survey-options-general.php:35
+msgid "Redirect URL after survey answer (leave empty to disable redirection):"
+msgstr ""
+
+#: includes/views/html-survey-options-general.php:44
+msgid ""
+"To prevent people from filling the survey out multiple times you may select "
+"one of the options below"
+msgstr ""
+"Pour empêcher les gens de remplir plusieurs fois ce sondage, vous pouvez "
+"sélectionner une des options suivantes"
+
+#: includes/views/html-survey-options-general.php:48
+msgid "Survey Authentication Method:"
+msgstr "Méthode d'authentification du sondage"
+
+#: includes/views/html-survey-options-general.php:67
+msgid "Auth method can not be edited"
+msgstr "La méthode d'authentification ne peut être éditée"
+
+#: includes/views/html-survey-options-general.php:71
+#, fuzzy
+msgid "Enable captcha for this survey"
+msgstr "Créer un copie de ce sondage"
+
+#: includes/views/html-survey-results.php:29
+msgid "This survey has received a total of %s%d%s responses"
+msgstr ""
+
+#: includes/views/html-survey-results.php:35
+msgid "%s received %s%d%s responses"
+msgstr ""
+
+#: includes/views/html-survey-results.php:62
+msgid "was answered %d times"
+msgstr ""
+
+#: includes/views/html-surveys-options-emails.php:9
+msgid "Notification Emails"
+msgstr "Emails de notification"
+
+#: includes/views/html-surveys-options-emails.php:13
+msgid "Enable emails on survey completion?"
+msgstr "Activer les emails lorsqu'un sondage est complété?"
+
+#: includes/views/html-surveys-options-emails.php:16
+#: includes/views/html-surveys-options-emails.php:30
+#: includes/views/html-surveys-options.php:43
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/views/html-surveys-options-emails.php:18
+#: includes/views/html-surveys-options-emails.php:32
+#: includes/views/html-surveys-options.php:45
+msgid "No"
+msgstr "Non"
+
+#: includes/views/html-surveys-options-emails.php:22
+msgid "Send Notifications for all survey completions to"
+msgstr "Envoyer des notifications pour tous les sondages complétés à "
+
+#: includes/views/html-surveys-options-emails.php:27
+msgid "Send email to survey respondent?"
+msgstr "Envoyer un email au sondés?"
+
+#: includes/views/html-surveys-options-emails.php:36
+msgid "For this to work, the survey must have an element of type \"email\""
+msgstr ""
+"Pour que ceci fonctionne, le sondage doit avoir un élément de type \"email\""
+
+#: includes/views/html-surveys-options-emails.php:39
+msgid "Respondent email subject"
+msgstr "Sujet de l'email envoyé au sondé"
+
+#: includes/views/html-surveys-options-emails.php:44
+msgid "Respondent email message"
+msgstr "Message de l'email envoyé au sondé"
+
+#: includes/views/html-surveys-options-emails.php:51
+msgid "The following template tags are available"
+msgstr "Les tags de template suivants sont disponibles"
+
+#: includes/views/html-surveys-options-emails.php:53
+msgid "HTML is not supported"
+msgstr "Le HTML n'est pas supporté"
+
+#: includes/views/html-surveys-options-emails.php:55
+#: includes/views/html-surveys-options.php:52
+msgid "Save"
+msgstr "Sauver"
+
+#: includes/views/html-surveys-options.php:6
+msgid "Survey Styling Options"
+msgstr "Option de style du sondage"
+
+#: includes/views/html-surveys-options.php:15
+msgid ""
+"You can add a captcha to your surveys. For this to work, you must enter your "
+"site key and secret key. You can get those here: "
+msgstr ""
+
+#: includes/views/html-surveys-options.php:16
+msgid "Google reCAPTCHA"
+msgstr ""
+
+#: includes/views/html-surveys-options.php:18
+msgid "Enable captcha"
+msgstr ""
+
+#: includes/views/html-surveys-options.php:24
+msgid "Your re-captcha Site Key"
+msgstr ""
+
+#: includes/views/html-surveys-options.php:30
+msgid "Your re-captcha Secret"
+msgstr ""
+
+#: includes/views/html-surveys-options.php:37
+msgid ""
+"This plugin outputs some very basic structural css. You can enable/disable "
+"this by setting the option below"
+msgstr ""
+"Ce module génère un css structurel très basique. Vous pouvez l'activer/"
+"désactiver avec l'option ci-dessous "
+
+#: includes/views/html-surveys-options.php:40
+msgid "Use included css?"
+msgstr "Utiliser le css inclut"
+
+#: includes/views/html-surveys-options.php:59
+#: includes/views/html-surveys-options.php:69
+msgid "Translate"
+msgstr ""
+
+#: includes/views/html-surveys-options.php:62
+#, fuzzy
+msgid ""
+"Press the button below to translate your surveys to the current site language"
+msgstr ""
+"Pressez le bouton ci-dessous pour migrer vos sondages vers la nouvelle "
+"version"
+
+# Uses the wordpress text domain - no need to translate
+#: options.php:8
+msgid "Cheatin&#8217; uh?"
+msgstr "On triche, hein?"
+
+#: strings.php:9
+msgid "Donate to the future development of this plugin:"
+msgstr "Faites un don pour le développement de ce plugin"
+
+#: strings.php:10
+msgid "How To Video"
+msgstr "Vidéo explicative"
+
+#: strings.php:11
+msgid "Debug"
+msgstr "Debug"
+
+#: strings.php:12
+msgid "Clone this survey"
+msgstr "Cloner ce sondage"
+
+#: strings.php:14 strings.php:18
+msgid "Review the Awesome Surveys Plugin"
+msgstr "Evaluez le module Awesome Surveys"
+
+#: strings.php:15
+msgid "Fork Me on GitHub"
+msgstr "Forkez-moi sur GitHub!"
+
+#: strings.php:16
+msgid "Awesome Surveys on github"
+msgstr "Awesome Surveys sur GitHub"
+
+#: strings.php:17
+msgid "Support for Awesome Surveys"
+msgstr "Support pour Awesome Surveys"
+
+#: strings.php:19
+msgid "Rate Awesome Surveys"
+msgstr "Notez Awesome Surveys"
+
+#: strings.php:20
+msgid "Shout it From the Rooftops!"
+msgstr "Criez le sur tous les toits!"
+
+#: strings.php:21
+msgid "Tweet this plugin"
+msgstr "Tweetez ce module"
+
+#: strings.php:22
+msgid "Awesome Surveys News"
+msgstr "Les News d'Awesome Surveys"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.willthewebmechanic.com/awesome-surveys"
+msgstr "http://www.willthewebmechanic.com/awesome-surveys"
+
+#. Description of the plugin/theme
+msgid ""
+"Easily create surveys for your WordPress website and publish them with a "
+"simple shortcode"
+msgstr ""
+"Créez facilement des sondages pour votre site WordPress et publiez les avec "
+"un simple shortcode"
+
+#. Author of the plugin/theme
+msgid "Will Brubaker"
+msgstr "Will Brubaker"
+
+#. Author URI of the plugin/theme
+msgid "http://www.willthewebmechanic.com"
+msgstr "http://www.willthewebmechanic.com"

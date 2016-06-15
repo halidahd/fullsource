@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /search?q=*
+Disallow: /*?*_fb_noscript=*
+
+Crawl-delay: 10
+Allow: /
+Sitemap: http://yeunoitro.net/sitemap.xml
